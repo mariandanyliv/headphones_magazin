@@ -237,6 +237,17 @@
     background-color: floralwhite;
 }
 
+.artcles-item:hover {
+    transition: transform .5s ease;
+    transform: scale(1.1);
+}
+
+.Video {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    background-color: #999;
+}
 .footer {
     background-color: #000;
 }
