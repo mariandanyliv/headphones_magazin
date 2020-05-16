@@ -149,8 +149,15 @@
 
 .title {
     font-size: 24px;
+    margin: 15px 0 15px 0;
 }
 
 .text {
     margin: 0px 10px 20px 20px;
+    line-height: 1.5;
+}
+
+li {
+    margin-left: 35px;
+    list-style-type: square
 }
